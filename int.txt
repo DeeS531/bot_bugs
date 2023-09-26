@@ -1,0 +1,16 @@
+фреймворк - node telegram bot api
+    https://github.com/yagop/node-telegram-bot-api
+    npm i node-telegram-bot-api
+
+Создания бота в botFather:
+    /newbot - создание нового бота
+        назвать бота
+        выбрать ИД бота
+    /DESCRIPTION - описание
+
+bugs_bestdating_bot
+    6226990795:AAFbLKPSdaYUYoPDHuDwXVXKpaBSQ91CLKc
+
+1. Создание базы Json
+    npm init 
+2.  npm i node-telegram-bot-api
